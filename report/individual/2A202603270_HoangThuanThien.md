@@ -5,7 +5,7 @@
 - Họ tên: Hoàng Thuận Thiên
 - MSSV: 2A202603270
 - Email: thienhoang20803@gmail.com
-- Lớp: K5-L2
+- Lớp: K5-L2B
 - Link repo bài làm: https://github.com/Tiny208/K5-L2-HoangThuanThien-Day02-ObjectDetection
 - Link Colab / Môi trường thực nghiệm: Do Google Colab báo lỗi không gán được phần phụ trợ, toàn bộ pipeline huấn luyện YOLO, sinh metrics và xuất ảnh dự đoán được tôi chuyển sang chạy cục bộ trên máy cá nhân dùng CPU Apple Silicon M1. Link Colab notebook dự phòng đã cấu hình sẵn URL repo: https://colab.research.google.com/drive/1_K5_L2_Day02_HoangThuanThien_ObjectDetection.
 
@@ -186,4 +186,3 @@ Do đó, tôi quyết định không sửa nhãn theo Gold mà giữ lại nhãn
 - **Tài liệu tham khảo:**
   - Tài liệu bài thực hành Day 2 Object Detection (GUIDE.md, RULES.md, CHECKPOINTS.md, SUBMISSION.md, RUBRIC.md).
   - Tài liệu Ultralytics YOLO26 / YOLOv8 Detection Documentation.
-  - Bộ dữ liệu giao thông UA-DETRAC.
